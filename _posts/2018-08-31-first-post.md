@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Jekyll Test!"
 date: 2018-08-31 00:28:28 -0400
 categories: jekyll update
 ---
